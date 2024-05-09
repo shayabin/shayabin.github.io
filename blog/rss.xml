@@ -4,10 +4,21 @@
         <title>傻亚斌的官方网站 Blog</title>
         <link>https://shayabin.github.io/blog</link>
         <description>傻亚斌的官方网站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[高兴]]></title>
+            <link>https://shayabin.github.io/blog/happy</link>
+            <guid>https://shayabin.github.io/blog/happy</guid>
+            <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天天气真不错。]]></description>
+            <content:encoded><![CDATA[<p>今天天气真不错。</p>]]></content:encoded>
+            <category>随笔</category>
+            <category>诗</category>
+            <category>shayabin</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://shayabin.github.io/blog/welcome</link>
